@@ -10,6 +10,10 @@ public class Main {
 
         System.out.println("Переход на java 17");
         System.out.println("Переход на java 18");
+        System.out.println("Переход на java 20");
+
+
+
 
     }
 }
