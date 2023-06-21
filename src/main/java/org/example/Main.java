@@ -9,5 +9,11 @@ public class Main {
         System.out.println("34");
         System.out.println("342523");
 
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+        int c=0;
+        int d=0;
+
     }
 }
