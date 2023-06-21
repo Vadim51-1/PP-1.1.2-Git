@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Изменение номер 3 должно остаться в 2 коммите");
         System.out.println("Изменение номер 4 НЕ должно остаться в 2 коммите");
 
+
+        System.out.println("Переход на java 17");
+
     }
 }
